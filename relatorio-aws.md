@@ -1,8 +1,8 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-*Data: 30/12/2025
-*Empresa: Abstergo Industries 
-*Responsável: Samyle Sousa
+* Data: 30/12/2025
+* Empresa: Abstergo Industries
+* Responsável: Samyle Sousa
 
 ## Introdução
 Este relatório apresenta a proposta para o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Samyle Sousa. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
